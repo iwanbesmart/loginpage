@@ -1,0 +1,18 @@
+.mt-6 {
+  margin-top: 5% !important;
+}
+.masthead {
+  height: 70px;
+  background-image: url('../assets/img/header.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg {
+  /* The image used */
+  background-image: url("../assets/img/harga.png");
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
